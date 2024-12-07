@@ -1,0 +1,5 @@
+Improvement
+
+- Switch fixed/hourly automatically
+- Scroll up
+- Two mode
